@@ -1,0 +1,3 @@
+A developer who has seen it all, Don is a Microsoft MVP and currently a Director of Developer Experience at Red Hat, with a focus on .NET on Linux, Microservices, Serverless computing, and Node.js. Prior to Red Hat, Don was a Developer Advocate at Rackspace where he was immersed in cloud technology. He enjoys cooking and studying human behavior, and loathes the designated hitter rule.
+
+Don's overarching belief is this: "A program is not a communication between a developer and a machine; it's a communication between a developer and the next developer."
