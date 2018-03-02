@@ -1,0 +1,9 @@
+= Stairway to (Kloud) Heaven
+====
+
+Do you get tired when they tell you to learn 12 factors, 8 steps to something, and more 10 tips to anything? We know the feeling: we don't promise it will be easy, but we promise that you'll be awesome!
+
+Join us walking this stairway to heaven: and these days the Klouds start with K(ubernetes). 
+When even your favorite GitHub repos are running on top of Kubernetes, you know you need to master it. 
+On this hand-on workshop we'll nurture your applications from the source code, to build, to test, to debug, 
+to deploy, to scaling, to resilience, to monitoring, and to heaven, with you and OpenShift. Don't miss it!
