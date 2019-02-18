@@ -1,1 +1,9 @@
-Kamesh is a Principal Software Engineer at Red Hat, as part of his role as Director of Developer Experience -- he actively evangelise on Servicemesh and Serverless technologies --. With a career spanning close to two decades, most of Kamesh’s career was with services industry helping various enterprise customers build Java based solutions. Kamesh has been an contributor to Open Source projects for more than a decade and he now actively contributes to projects like Knative, Minishift, Eclipse Che, fabric8 etc., As part of his developer philosophy he strongly believes in LEARN MORE, DO MORE and SHARE MORE!
+Kamesh is a Principal Software Engineer at Red Hat, as part of his additional role as Director of Developer Experience at Red Hat -- he actively educates on Kubernetes/OpenShift, Servicemesh, and Serverless technologies --. With a career spanning close to two decades, most of Kamesh’s career was with services industry helping various enterprise customers build Java-based solutions. Kamesh has been a contributor to Open Source projects for more than a decade and he now actively contributes to projects like Knative, Minishift, Eclipse Che, fabric8 etc., As part of his developer philosophy he strongly believes in LEARN MORE, DO MORE and SHARE MORE!
+
+Twitter: https://twitter.com/kamesh_sampath
+
+GitHub: https://github.com/kameshsampath
+
+LinkedIn: https://linkedin.com/in/kameshsampath
+
+RHD Blogs: https://developers.redhat.com/blog/author/kameshsampath/
